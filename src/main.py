@@ -1,6 +1,5 @@
 def main():
-    print("welcome to Engineering Calculator")
-
+    print("Welcome to Engineering Calculator")
 
 
 
